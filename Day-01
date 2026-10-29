@@ -1,0 +1,30 @@
+1. Introduction to Applications
+Understanding the differences between desktop applications and web applications.
+Examples of desktop applications: Microsoft Word, VLC Media Player, and Visual Studio Code.
+Examples of web applications: Gmail, Google Docs, and Instagram Web.
+2. Understanding Web Application Architecture
+Frontend: The user interface that users see and interact with.
+Backend: Processes requests and handles application logic.
+Database: Stores and manages application data.
+Client–Server Communication: Enables the frontend and backend to exchange information.
+I also learned about the three tiers of web application architecture: Presentation Tier, Application Tier, and Data Tier.
+3. Introduction to Frontend Technologies
+HTML: Structures webpage content.
+CSS: Styles webpages and improves their appearance.
+Bootstrap: Helps build responsive websites.
+JavaScript: Adds interactivity and dynamic behavior.
+React.js: Helps build interactive and reusable user interfaces.
+I was also introduced to Vibe Coding, an AI-assisted approach to software development using natural language prompts.
+4. Getting Started with HTML
+I started learning HTML (HyperText Markup Language), the standard markup language used to structure webpages.
+Topics covered:
+Basic structure of an HTML document.
+HTML tags, elements, and attributes.
+Headings, paragraphs, and horizontal rules.
+Text formatting using bold, italic, and underline.
+The purpose of the <head> and <body> sections.
+Creating basic webpage content and hyperlinks.
+5. History and Evolution of HTML
+I learned about Tim Berners-Lee, the inventor of the World Wide Web and a key contributor to the development of HTML.
+I also explored HTML5 features, including semantic elements, audio and video support, canvas graphics, and modern form controls.
+This is the beginning of another exciting phase in my learning journey! I look forward to strengthening my frontend development skills, practicing consistently, and building projects by applying these concepts.
